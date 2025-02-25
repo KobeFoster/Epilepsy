@@ -1,7 +1,7 @@
 console.log("bye");
 console.log(" I like pineapple on pizza?");
 
-window.alert("Payload sucessfully delivered for MacBook Air");
+window.alert("Payload sucessfully delivered for acer computer, windows 11");
 
 
 document.getElementById("h1,1").textContent = 'Done for bro';
